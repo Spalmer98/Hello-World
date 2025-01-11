@@ -16,6 +16,5 @@ I wrote this program in Python.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [note.nkmn.me](https://note.nkmk.me/en/python-platform-system-release-version/)
 * [StackOverflow](https://www.w3resource.com/python-exercises/python-basic-exercise-43.php)
